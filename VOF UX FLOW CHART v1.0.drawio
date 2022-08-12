@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T09:46:51.603Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/18.0 Chrome/99.0.4844.88 Safari/537.36" version="20.2.3" etag="-wozPGPX3QwkB2CS36GD" type="github"><diagram id="6wTpcOBEgMskakPql6pq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-12T10:29:14.174Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/18.0 Chrome/99.0.4844.88 Safari/537.36" etag="6Gnd0Vb2AQMJXTsynY1G" version="20.2.3" type="github">
+  <diagram id="6wTpcOBEgMskakPql6pq" name="페이지-1">
+    <mxGraphModel dx="832" dy="2823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M2ukLGfqKco06slwp_Tj-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-2" value="처음 이 앱을 사용하시나요?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-2080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M2ukLGfqKco06slwp_Tj-1" target="M2ukLGfqKco06slwp_Tj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="774" y="-2140" as="sourcePoint" />
+            <mxPoint x="464" y="-2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-5" value="yes" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2ukLGfqKco06slwp_Tj-2" target="M2ukLGfqKco06slwp_Tj-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="-2020" as="sourcePoint" />
+            <mxPoint x="314" y="-2040" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-6" value="안내 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="-2060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2ukLGfqKco06slwp_Tj-6" target="M2ukLGfqKco06slwp_Tj-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224" y="-1990" as="sourcePoint" />
+            <mxPoint x="204" y="-1980" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-11" value="Google 로그인" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M2ukLGfqKco06slwp_Tj-8">
+          <mxGeometry x="0.0575" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-9" value="이름 입력 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="-1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-12" value="홈 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M2ukLGfqKco06slwp_Tj-9" target="M2ukLGfqKco06slwp_Tj-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="-1860" as="sourcePoint" />
+            <mxPoint x="314" y="-1910" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-15" value="no" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2ukLGfqKco06slwp_Tj-2" target="M2ukLGfqKco06slwp_Tj-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="-1990" as="sourcePoint" />
+            <mxPoint x="414" y="-1960" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-16" value="사용자 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="-1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M2ukLGfqKco06slwp_Tj-12" target="M2ukLGfqKco06slwp_Tj-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444" y="-1830" as="sourcePoint" />
+            <mxPoint x="464" y="-1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-18" value="친구 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="-1440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="M2ukLGfqKco06slwp_Tj-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="-1900" as="sourcePoint" />
+            <mxPoint x="504" y="-1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-20" value="친구 추가 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="-1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="M2ukLGfqKco06slwp_Tj-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="-1900" as="sourcePoint" />
+            <mxPoint x="574" y="-1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-22" value="예배 소감문 작성 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="-1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="M2ukLGfqKco06slwp_Tj-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="-1900" as="sourcePoint" />
+            <mxPoint x="604" y="-1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-24" value="QT 소감문 작성 화면" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="-1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M2ukLGfqKco06slwp_Tj-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="M2ukLGfqKco06slwp_Tj-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="-1900" as="sourcePoint" />
+            <mxPoint x="604" y="-1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
